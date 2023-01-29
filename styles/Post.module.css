@@ -1,0 +1,26 @@
+.container {
+	width: 100%;
+	max-width: 500px;
+	height: 100vh;
+	overflow: auto;
+	margin: 0 auto;
+	background-color: ivory;
+	padding: 30px 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.date {
+  text-align: right;
+  color: #999;
+  margin-bottom: 20px;
+}
+
+.desc {
+  line-height: 1.5;
+}
